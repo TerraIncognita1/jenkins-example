@@ -55,4 +55,12 @@
 
     </dependencies>
 
+<distributionManagement>
+       <repository>
+         <id>internal.repo</id>
+         <name>Internal repo</name>
+         <url>file://home/mrromanjo/Programming/fun/</url>
+       </repository>
+   </distributionManagement>
+         
 </project>
